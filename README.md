@@ -19,4 +19,4 @@ Libraries:
 13-react-native-screens: Used to improve performance with native screen components.
 
 
-<img src="./Assets/Gif/mobile.gif" /> 
+<img src="./Assets/Gif/mobile.gif"/> 
