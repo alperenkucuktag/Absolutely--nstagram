@@ -1,22 +1,19 @@
-# Absolutely-instagram
+# Absolutely--nstagram
 
+Kullandığım Kütüphaneler:
 
+1-@fawazahmed/react-native-read-more: Uzun metinleri kesip "devamını oku" bağlantısı eklemek için kullandım.
+2-@react-navigation/bottom-tabs: Alt sekme navigasyonu sağlamak için kullandım.
+3-@react-navigation/drawer: Çekmece (drawer) navigasyonu sağlamak için kullandım.
+4-@react-navigation/native: React Navigation için temel kütüphane olarak kullandım.
+5-@react-navigation/stack: Yığın (stack) navigasyonu sağlamak için kullandım.
+6-dayjs: Tarih ve saat işlemleri için hafif bir kütüphane olarak kullandım.
+7-react: React kütüphanesini kullandım.
+8-react-native: React Native kütüphanesini kullandım.
+9-react-native-gesture-handler: Daha iyi jest kontrolü için kullandım.
+10-react-native-linear-gradient: Lineer gradyan arka planlar oluşturmak için kullandım.
+11-react-native-reanimated: Gelişmiş animasyonlar oluşturmak için kullandım.
+12-react-native-safe-area-context: Güvenli alanlarda içerik yerleştirmek için kullandım.
+13-react-native-screens: Yerel ekran bileşenleriyle performansı artırmak için kullandım.
 
-Libraries:
-
-1-@fawazahmed/react-native-read-more: Used to truncate long texts and add a "read more" link.
-2-@react-navigation/bottom-tabs: Used for bottom tab navigation.
-3-@react-navigation/drawer: Used for drawer navigation.
-4-@react-navigation/native: Core library for React Navigation.
-5-@react-navigation/stack: Used for stack navigation.
-6-dayjs: Lightweight library for date and time manipulation.
-7-react: React library.
-8-react-native: React Native library.
-9-react-native-gesture-handler: Used for enhanced gesture control.
-10-react-native-linear-gradient: Used to create linear gradient backgrounds.
-11-react-native-reanimated: Used for advanced animations.
-12-react-native-safe-area-context: Used for handling safe areas for content.
-13-react-native-screens: Used to improve performance with native screen components.
-
-
-<img src="./Assets/Gif/mobile.gif"/> 
+<img src="/Assets/gifmobile.gif" />
