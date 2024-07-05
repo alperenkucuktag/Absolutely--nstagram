@@ -16,4 +16,4 @@ Kullandığım Kütüphaneler:
 12-react-native-safe-area-context: Güvenli alanlarda içerik yerleştirmek için kullandım.
 13-react-native-screens: Yerel ekran bileşenleriyle performansı artırmak için kullandım.
 
-<img src="/Assets/gifmobile.gif" />
+<img src="gifmobile.gif" />
