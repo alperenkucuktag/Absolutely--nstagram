@@ -1,6 +1,6 @@
 # Absolutely-instagram
 
-Kullandığım Kütüphaneler:
+Libraries:
 
 1-@fawazahmed/react-native-read-more: Used to truncate long texts and add a "read more" link.
 2-@react-navigation/bottom-tabs: Used for bottom tab navigation.
