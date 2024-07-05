@@ -1,4 +1,4 @@
-# Absolutely--nstagram
+# Absolutely-instagram
 
 Kullandığım Kütüphaneler:
 
