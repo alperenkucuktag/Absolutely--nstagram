@@ -15,4 +15,6 @@ Libraries:
 11-react-native-reanimated: Used for advanced animations.
 12-react-native-safe-area-context: Used for handling safe areas for content.
 13-react-native-screens: Used to improve performance with native screen components.
+
+
 <img src="./Assets/Gif/mobile.gif" /> 
